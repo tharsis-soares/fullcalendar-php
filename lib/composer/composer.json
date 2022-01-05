@@ -1,0 +1,17 @@
+{
+    "name": "ewti/calendar",
+    "description": "Calendario Eventos EWTI",
+    "authors": [
+        {
+            "name": "tharsis-soares",
+            "email": "50808840+tharsis-soares@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}
